@@ -7,7 +7,7 @@
    <ul> minímo de tempo possivel </ul>
    <ul>clicando em um lugar e </ul>
    <ul> logo após em ourto até </ul>
-    <ul>forma a figura original</ul>
+    <ul>forma a figura original.</ul>
 
 </il>
 
