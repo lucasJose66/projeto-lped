@@ -3,7 +3,7 @@
 
 <il> 
    <ul> O jogo consiste em organizar </ul>
-    <ul>as peças na orden certa no </ul>
+    <ul>as peças na ordem certa no </ul>
    <ul> minímo de tempo possivel </ul>
    <ul>clicando em um lugar e </ul>
    <ul> logo após em ourto até </ul>
